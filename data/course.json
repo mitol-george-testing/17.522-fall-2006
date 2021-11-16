@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Humanities",
+      "Religion"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1af351d5-3d51-d94f-220f-85ccfe26a93d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Politics and Religion",
+  "course_description": "This graduate reading seminar explores the role of religious groups, institutions, and ideas in politics using social science theories. It is open to advanced undergraduate students with permission of the instructor.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.522",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
